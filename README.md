@@ -2,10 +2,6 @@
 
 > This a Covid-19 Data Statistics App that was created using React and Redux. An API was used that fectches data and shows Data statistics of every country in Africa such as the number of people that have been infected and recovered and number of deaths.
 
-# API Screenshot
-
-![screenshot](./images/Covid-react-api.png)
-
 ## Built With
 - HTML
 - CSS
