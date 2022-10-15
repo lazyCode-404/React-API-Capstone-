@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# React API Capstone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This a Covid-19 Data Statistics App that was created using React and Redux. An API was used that fectches data and shows Data statistics of every country in Africa such as the number of people that have been infected and recovered and number of deaths.
 
-## Available Scripts
+# API Screenshot
 
-In the project directory, you can run:
+![screenshot](./images/Covid-react-api.png)
 
-### `npm start`
+## Built With
+- HTML
+- CSS
+- JavaScript
+- React-redux
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Live Demo Link](https://deluxe-fenglisu-f21246.netlify.app/)
 
-### `npm test`
+## Loom Video
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Loom Video] (https://www.loom.com/share/4470fe24748046fa8bc1b7d340b19c7a)
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy up and running follow these simple example steps.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Web Browser
+- Code Editor
+- Prior knowledge of CSS, HTML, GIT, GITHUB and Linters.
 
-### `npm run eject`
+### Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm build
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Run the following commands to run linter tests
 
-## Learn More
+WebHint
+```bash
+npx hint .
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+StyleLint
+```bash
+npx stylelint "**/*.{css,scss}"
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ESLint
+```bash
+npx eslint .
+```
 
-### Code Splitting
+```bash
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+git clone//https://github.com/lazyCode-404/React-API-Capstone-
+cd react-capstone2.
+```
 
-### Analyzing the Bundle Size
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+👤 **Bwalya Nonde*
 
-### Making a Progressive Web App
+- GitHub: [@BwalyaNonde](https://github.com/lazyCode-404)
+- Twitter: [nonde_bwalya](https://twitter.com/nonde_bwalya)
+- LinkedIn: [Bwalya Nonde](https://www.linkedin.com/in/bwalya-nonde/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🤝 Contributing
 
-### Advanced Configuration
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Feel free to check the [issues page](../../issues/).
 
-### Deployment
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Give a ⭐️ if you like this project!
 
-### `npm run build` fails to minify
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Hat tip to anyone whose code was used
+- Thank you to my coding partners
+- Inspiration
+- [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29) whose design template was used is used for this project.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
